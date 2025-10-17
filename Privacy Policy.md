@@ -1,5 +1,5 @@
 # Privacy Policy for Vizique
-_Last updated: October 16, 2025_
+_Last updated: October 17, 2025_
 
 At **Vizique**, your privacy is our priority.
 This Privacy Policy explains how we handle information when you use our app.
@@ -43,11 +43,15 @@ Vizique does not collect any personal information and does not target or track u
 If a child under 13 uses the app, no personal data is collected, stored, or shared.
 
 
-## 6. Updates to This Policy
+## 6. Local Data Storage
+Your app progress and any data you provide are stored locally on your device. We do not store this data on our servers. If you switch devices or delete the app, your progress may be lost.
+
+
+## 7. Updates to This Policy
 We may update this policy as our features evolve. Any updates will appear on this page with a revised “Last updated” date.
 
 
-## 7. Contact Us
+## 8. Contact Us
 If you have questions about this Privacy Policy, please contact us at:
 
 varada.s@hotmail.com
