@@ -36,22 +36,27 @@ All generated insights, images, or results remain stored only on your device or,
 
 If iCloud is disabled, your data will remain stored locally on your device only.
 
+## 4. iCloud Synchronization
+Certain small pieces of app data — such as your fitness summary information and preferences — are securely synced through Apple’s iCloud Key-Value storage to keep your experience consistent across devices. 
+- This synchronization is handled entirely by Apple.
+- Vizique does not have access to any identifiers or data stored in your iCloud account.
+- No photos, workout logs, or other personal content are synced or transmitted.
 
 
-## 4. Security
+## 5. Security
 While Vizique does not store user data on its own servers, we maintain secure, encrypted connections (HTTPS) for all communications to protect your privacy during processing.  
 All device-stored and iCloud-synced data remain encrypted and protected by Apple’s security infrastructure.
 
 
 
-## 5. Children’s Privacy
+## 6. Children’s Privacy
 Vizique does not collect any personal information and does not target or track users of any age.
 
 If a child under 13 uses the app, no personal data is collected, stored, or shared.
 
 
 
-## 6. Data Persistence and Removal
+## 7. Data Persistence and Removal
 Your app progress and summaries are stored locally or in your personal iCloud account.
 
 Deleting the app may remove local data from your device but will not delete any data already synced with your iCloud account.  
@@ -59,12 +64,12 @@ You can manage or delete iCloud data through your Apple device settings.
 
 
 
-## 7. Updates to This Policy
+## 8. Updates to This Policy
 We may update this policy as our features evolve. Any updates will appear on this page with a revised “Last updated” date.
 
 
 
-## 8. Contact Us
+## 9. Contact Us
 If you have questions about this Privacy Policy, please contact us at:
 
 varada.s@hotmail.com
