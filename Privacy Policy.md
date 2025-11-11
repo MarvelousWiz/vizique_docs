@@ -40,7 +40,7 @@ If iCloud is disabled, your data will remain stored locally on your device only.
 Certain small pieces of app data — such as your fitness summary information and preferences — are securely synced through Apple’s iCloud Key-Value storage to keep your experience consistent across devices. 
 - This synchronization is handled entirely by Apple.
 - Vizique does not have access to any identifiers or data stored in your iCloud account.
-- No photos, workout logs, or other personal content are synced or transmitted.
+- No photos, workouts, workout logs, or other personal content are synced or transmitted.
 
 
 ## 5. Security
