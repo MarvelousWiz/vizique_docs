@@ -1,5 +1,5 @@
 # Terms of Use for Vizique
-_Last updated: October 16, 2025_
+**Last updated: November 18, 2025**
 
 Welcome to **Vizique**!
 
@@ -18,6 +18,8 @@ It is designed for informational purposes only and is not a medical or fitness p
 - Always consult a qualified healthcare professional or certified trainer before starting any new exercise or nutrition program.
 
 - The workout sets, repetitions, or suggestions displayed in the app are for reference only and should be adjusted based on your own comfort level and physical ability.
+
+- Note: Vizique’s current analysis model is optimized using male physiology data. While the app can be used by anyone, accuracy for female users may vary.
 
 - By using the app, you acknowledge that you are responsible for ensuring that any physical activity you perform is safe and appropriate for you.
 
