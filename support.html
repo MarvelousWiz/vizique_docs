@@ -15,7 +15,7 @@
             color: #172333;
         }
         h1 {
-            color: #1e90ff;
+            /* Heading is now black */
             margin-bottom: 1rem;
         }
         a {
@@ -28,14 +28,30 @@
         p {
             margin-bottom: 1rem;
         }
+        .nested-link {
+            margin-left: 20px;
+        }
     </style>
 </head>
 <body>
     <h1>Vizique App Support</h1>
     <p>If you have any questions, encounter an issue, or need help with your subscription, please contact us:</p>
     <p>📩 <strong>Email:</strong> <a href="mailto:varada.s@hotmail.com">varada.s@hotmail.com</a></p>
-    <p>For billing or subscription management, visit Apple Support: <br>
+
+    <!-- Apple Section -->
+    <p>For Apple Support (general): <br>
+        <a href="https://support.apple.com/" target="_blank">https://support.apple.com/</a>
+    </p>
+    <p class="nested-link">For billing or subscription management: <br>
         <a href="https://support.apple.com/en-us/HT202039" target="_blank">https://support.apple.com/en-us/HT202039</a>
+    </p>
+
+    <!-- Google Section -->
+    <p>For Google/Android Support (general): <br>
+        <a href="https://support.google.com/googleplay" target="_blank">https://support.google.com/googleplay</a>
+    </p>
+    <p class="nested-link">For Google Play billing or subscription management: <br>
+        <a href="https://support.google.com/googleplay/answer/7018481" target="_blank">https://support.google.com/googleplay/answer/7018481</a>
     </p>
 </body>
 </html>
